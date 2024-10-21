@@ -2,7 +2,7 @@
 
 ## AI Bootcamp Module 1 Challenge
 
-### P<u>A</u>**TIENT CONSULTAT**<u>I</u>ON
+### P<u>A</u>TIENT CONSULTAT<u>I</u>ON
 
 
 
