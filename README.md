@@ -2,7 +2,7 @@
 
 ## AI Bootcamp Module 1 Challenge
 
-### P**<u>A</u>**TIENT CONSULTAT**<u>I</u>**ON
+### P<u>A</u>**TIENT CONSULTAT**<u>I</u>ON
 
 
 
@@ -52,9 +52,7 @@ Improving the existing data can also result in an improved model. Better and div
 
 The algorithims of the model can also be constantly updated and improved to keep up with the changing population dataset. This can be achieved by adding new parameters, improving the architecture through taking advantage of modern hardware features and use of cache-friendly data-layouts and taking advantage of recent advances in machine learning and optimization techniques.
 
- and it will surely only be a matter of time before Corti AI won’t need to be the listener in the caregiver-patient conversation but the caregiver. This would be the next step in this life changing interaction between humans and AI. Corti AI should look into taking the complete role of the caregiver in the interaction, be able to dispatch an ambulance while giving the emergency medical team the diagnosis of the patient in question. This would save critical minutes which could be the difference between life and death.
-
-As previously mentioned, AI could also be extended to the physician’s office to act as their personal assistant. It could be utilized to perform roles such as diagnosing medical images and assessing lab results. With the necessary consents, it could also be utilized in the treatment rooms to ‘listen’ and gather data that will allow it to diagnose medical conditions, propose treatment plans or even perform necessary medical procedures. With doctors already utilizing robotics to perform medical procedures, the next step would be eradicating the risk that comes with burnt out care providers.
+ 
 
 
 
